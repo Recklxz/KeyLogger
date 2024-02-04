@@ -7,9 +7,9 @@ This Python script, using `pynput`, acts as a basic keylogger, capturing keyboar
 
 python3.py
 
-###Or
+### Or
 
-if you can just run the script through VS CODE or any other python compilers of your choice.
+If you can just run the script through VS CODE or any other python compilers of your choice.
 
 .OPEN A TEXT FILE
 
