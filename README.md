@@ -13,4 +13,4 @@ If you can just run the script through VS CODE or any other python compilers of 
 
 .OPEN A TEXT FILE
 
-Whatever youl type will be stored to a text file called log.txt as a "LOG EVENT". 
+Whatever you type will be stored to a text file called log.txt as a "LOG EVENT". 
